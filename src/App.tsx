@@ -8,6 +8,7 @@ const App = () => {
       {/* <Test /> */}
       {/* <Account /> */}
       <h1>hello</h1>
+      <h2>dub</h2>
     </>
   )
 }
