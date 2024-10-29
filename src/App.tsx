@@ -7,6 +7,7 @@ const App = () => {
     <>
       {/* <Test /> */}
       <Account />
+      <h1>hey</h1>
     </>
   )
 }
